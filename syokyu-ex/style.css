@@ -63,6 +63,10 @@ line-height: 1.5;
     font-size: 12px;
   }
 
+.header-inner .logo {
+  width: 120px;
+  }
+  
   header .phone img {
     width: 12px;
   }
