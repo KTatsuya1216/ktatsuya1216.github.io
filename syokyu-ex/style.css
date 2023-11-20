@@ -326,7 +326,7 @@ text-align-last: left;
   background: #FFF;
   box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
   padding: 30px 66px 46px;
-  margin: 70px 20px 0 20px;
+  margin: 70px 0 0 0;
 }
 
 .news-box ul a {
@@ -350,12 +350,13 @@ text-align-last: left;
   .news-box {
   padding: 30px 28px 46px;
   }
-  }
+}
 
 .news-box ul p {
   font-weight: bold;
   margin: 19px 0;
 }
+
 
 .news-box .date{
   color: #21A937;
