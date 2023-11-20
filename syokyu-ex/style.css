@@ -133,13 +133,16 @@ margin-left: 4px;
   width: 102px;
   height: 565px;
   background: #FFFFFF;
-  padding: 18px 0;
+  padding: 18px 37px;
 }
 
 @media(max-width: 521px) {
   .fv .copy-boxes__item {
   width: 51px;
   height: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+
   }
 }
 
@@ -361,7 +364,7 @@ text-align-last: left;
 }
 
 .news-box .news-txt {
-  width:76%;
+  width:80%;
   text-align: left;
 }
 
