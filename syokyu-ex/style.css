@@ -289,7 +289,6 @@ margin-left: 4px;
 @media(max-width: 1024px) {
   .work-boxes {
     display: block;
-    padding: 0 20px;
   }
   .work-box {
     width: 100%;
@@ -340,6 +339,10 @@ text-align-last: left;
 }
 
 @media (max-width: 821px) {
+  .worknews-inner {
+    padding: 78px 20px 113PX;
+  }
+
   .news-box .news-datetag {
     display: block;
   }
